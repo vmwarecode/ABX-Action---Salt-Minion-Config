@@ -1,1 +1,0 @@
-# ABX-Action---Salt-Minion-Config
